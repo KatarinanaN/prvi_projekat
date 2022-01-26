@@ -1,0 +1,29 @@
+.navbar {
+    background-color: #980000;
+    color: white;
+    text-align: center;
+}
+
+.crvena-pozadina {
+    background: #980000;
+    color: white;
+}
+
+ul {
+    border: 1px solid #980000;
+}
+
+.news-content {
+    background-color: #980000;
+    color: white;
+}
+
+footer {
+    bottom: 0;
+    width: 100%;
+    background-color: #980000;
+}
+
+footer a {
+    color: white;
+}
